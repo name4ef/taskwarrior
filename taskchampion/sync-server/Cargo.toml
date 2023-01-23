@@ -22,6 +22,6 @@ rusqlite = { version = "0.28", features = ["bundled"] }
 chrono = { version = "^0.4.22", features = ["serde"] }
 
 [dev-dependencies]
-actix-rt = "^1.1.1"
+actix-rt = "^2.8.0"
 tempfile = "3"
 pretty_assertions = "1"
